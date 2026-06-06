@@ -2,8 +2,9 @@
 title: "Qué resuelve el ERP de Veridian (y qué no)"
 serie: "Construyendo Veridian"
 post_num: 12
-estado: pendiente-buffer
+estado: programado
 fecha_sugerida: 2026-06-05
+buffer_id: 6a143fba5617b69fb3fa8a7b
 tags:
   - linkedin
   - erp
@@ -21,7 +22,7 @@ formato_linkedin: imagen cuadrada (1200x1200)
 
 Para que no haya malentendidos: el ERP de Veridian no es para todos.
 
-Lo que sí resuelve:
+Lo que resuelve:
 
 ▸ Gestión de órdenes de trabajo: apertura, asignación, seguimiento y cierre con historial completo
 ▸ Mantenimiento preventivo: alertas por vencimiento o por horas de uso por equipo

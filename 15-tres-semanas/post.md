@@ -37,13 +37,13 @@ Intentar explicar lo que construís, en 300 palabras, para alguien que no te con
 
 Lo que viene:
 
-El foco de las próximas semanas es el ERP completo de Veridian. Sin distracciones de productos satélite, sin intentar vender diez cosas a la vez.
+Veridian gestiona lo que antes vivía disperso: en planillas, en WhatsApp, en la cabeza de dos o tres personas clave. Órdenes de trabajo. Mantenimiento preventivo. Inventario. Personal. Dashboard ejecutivo. Todo junto, en una sola herramienta, corriendo en tu propia infraestructura.
 
-Un ERP pensado para PyMEs industriales argentinas. Desplegado en tu infraestructura. Con el stack que ya probé en producción real.
+Si mientras leías esta serie pensaste "esto describe exactamente lo que pasa en nuestra planta" — ese pensamiento tiene respuesta.
 
-Si tu empresa gestiona operaciones, mantenimiento o inventario — y hoy lo hacés en planillas o con un sistema que no cierra — escribime por DM.
+Escribime por DM. Sin formularios. Sin call de "discovery". Una conversación para ver si tiene sentido.
 
-Sin formularios. Sin call de "discovery". Una conversación para ver si tiene sentido.
+El problema que reconociste no se resuelve solo.
 
 Gracias por seguir #ConstruyendoVeridian.
 

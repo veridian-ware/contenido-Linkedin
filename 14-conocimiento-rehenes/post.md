@@ -35,13 +35,13 @@ Lo vi pasar. Una planta con 15 años de historia, un técnico de referencia que 
 
 El costo no fue solo tiempo. Fue diagnósticos equivocados, paradas evitables, y la sensación de estar volando a ciegas en la propia planta.
 
-El conocimiento industrial tiene que vivir en el sistema, no en una persona.
+El problema no es el día que se va. El problema es que hoy, mientras está, el reloj corre. Cada semana sin registrar lo que sabe es conocimiento que ya se perdió — aunque todavía no lo sepas.
 
-Cada intervención registrada. Cada falla documentada. Cada solución que funcionó, disponible para el próximo que lo necesite.
+El conocimiento industrial tiene que vivir en el sistema, no en una persona. Cada intervención registrada. Cada falla documentada. Cada solución que funcionó, disponible para el próximo que lo necesite — esté quien esté en el turno.
 
 —
 
-¿Tu empresa depende hoy del conocimiento de una o dos personas clave? ¿Tienen plan B?
+¿Tu empresa depende hoy del conocimiento de una o dos personas clave? ¿Qué pasaría si mañana no estuvieran?
 
 #MantenimientoIndustrial #GestiónDelConocimiento #Veridian #PyMEs #Operaciones
 

@@ -43,11 +43,13 @@ Cada pieza está acá por una razón concreta:
 ▸ Docker porque despliego en infraestructura del cliente sin pedir favores al sysadmin
 ▸ Sequelize porque las migraciones de schema en producción no pueden ser drama
 
-Lo importante no es la lista. Lo importante es que es el mismo stack que ya está corriendo, hoy, gestionando órdenes de trabajo reales en empresas argentinas.
+Lo importante no es la lista.
 
-No es un MVP en mi laptop. Es producción.
+Lo importante es que hay plantas industriales donde el jefe llega el lunes y sabe exactamente qué pasó el fin de semana: qué OTs se cerraron, qué repuestos se usaron, qué equipos tienen mantenimiento vencido.
 
-Y si sos dev, te lo digo claro: la mitad de los módulos los estoy empaquetando como productos independientes. AuthKit ya está afuera. WorkKit viene en camino. La idea es que cualquier desarrollador pueda apoyarse en piezas probadas en lugar de reescribir lo mismo en cada proyecto.
+Y hay plantas donde todavía lo averigua preguntando.
+
+Veridian es la diferencia entre las dos.
 
 —
 

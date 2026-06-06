@@ -45,9 +45,7 @@ El costo no es el archivo Excel. El costo es:
 ▸ Repuestos comprados dos veces porque nadie supo que ya estaban
 ▸ Auditorías que se transforman en sufrimientos de tres días
 
-Hace 15 años que veo esto en cada planta donde entro. Por eso el segundo módulo de Veridian que estoy empaquetando como producto independiente es justamente este: gestión de órdenes de trabajo, mantenimiento preventivo e historial por equipo.
-
-Se viene WorkKit Express. Mismo enfoque que AuthKit: te lo llevás listo para producción.
+Hace 15 años que veo esto en cada planta donde entro. Por eso la gestión de órdenes de trabajo, mantenimiento preventivo e historial por equipo es una de las piezas centrales del ERP de Veridian — pensada exactamente para este escenario.
 
 —
 

@@ -4,6 +4,7 @@ serie: "Construyendo Veridian"
 post_num: 11
 estado: programado
 fecha_sugerida: 2026-06-03
+buffer_id: 6a143faf460c62dd221b299b
 tags:
   - linkedin
   - dolor
@@ -37,7 +38,9 @@ Y cuando llega el jefe a las 8 AM y pregunta "¿qué pasó con la prensa 3?", la
 
 El costo de ese "fijate" informal no se mide en una línea del balance. Se mide en horas de parada, diagnósticos duplicados y decisiones tomadas sin información.
 
-Un sistema de órdenes de trabajo resuelve exactamente esto. No como concepto abstracto — como el lugar concreto donde el turno saliente escribe qué pasó y el entrante lo lee antes de tocar nada.
+Pensá en las últimas tres paradas no planificadas de tu planta. ¿Cuántas hubieran sido distintas si el turno entrante hubiera tenido el contexto completo de lo que pasó antes?
+
+Un sistema de órdenes de trabajo resuelve exactamente esto. No como concepto abstracto — como el lugar concreto donde el turno saliente escribe qué pasó y el entrante lo lee antes de tocar nada. La diferencia entre arrancar informado y arrancar a ciegas.
 
 —
 

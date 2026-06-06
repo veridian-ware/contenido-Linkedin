@@ -36,15 +36,15 @@ Lo que sí puedo decir con certeza:
 ▸ Gestiona órdenes de trabajo, inventario, personal y dashboards en simultáneo
 ▸ El sistema de roles permite que cada usuario vea exactamente lo que le corresponde, sin más
 
-No es un demo en mi laptop. Es el mismo código que uso con clientes.
+No es un demo en mi laptop. Es el mismo código que corre hoy con clientes reales.
 
 Y porque soy el único que lo construye y lo soporta, cada implementación es una conversación directa. Sin ticket de soporte. Sin esperar que "el área técnica" responda.
 
-Si tu empresa tiene entre 10 y 200 personas y gestiona operaciones, mantenimiento o inventario en planillas — vale la pena que hablemos.
+Si tu empresa tiene entre 10 y 200 personas y gestiona operaciones, mantenimiento o inventario en planillas — cada semana que pasa así tiene un costo. Vale la pena que hablemos.
 
 —
 
-¿Qué herramienta usás hoy para gestionar eso? Me ayuda entender dónde está el dolor real.
+¿Qué herramienta usás hoy para gestionar eso? ¿Y cuánto tiempo perdés por semana buscando información que debería estar a un clic?
 
 #Veridian #ERP #PyMEs #SoftwareIndustrial #Producción #ConstruyendoVeridian
 

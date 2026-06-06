@@ -23,25 +23,25 @@ formato_linkedin: imagen cuadrada (1200x1200)
 
 ## Copy (listo para pegar en LinkedIn)
 
-Hace 15 años que veo lo mismo en la planta.
+Pasé 15 años en planta industrial antes de escribir una línea de código.
 
-Una PyME quiere ordenar sus órdenes de trabajo, su inventario, su personal. Pide cotización. Le pasan un ERP "líder del mercado" con licencia anual, módulos que nunca va a usar, consultoría obligatoria y un contrato a 3 años.
+Vi lo mismo en cada empresa: una PyME quiere ordenar sus órdenes de trabajo, su inventario, su personal. Pide cotización. Le pasan un ERP "líder del mercado" con licencia anual, consultoría obligatoria y un contrato a 3 años.
 
-Termina volviendo al Excel. O peor: al WhatsApp.
+Termina volviendo al Excel. O peor: al WhatsApp. Y cada mes que pasa así, pierde trazabilidad, pierde historial, pierde control.
 
 Por eso construí Veridian.
 
-Software empresarial modular. Pagás una vez. Lo desplegás en tu propia infraestructura. Activás solo los módulos que usás. El día que querés cambiarlo, es tuyo: tenés el código, los datos y la base.
+Software empresarial completo. Pagás una vez. Lo desplegás en tu propia infraestructura. El día que querés cambiarlo, es tuyo: tenés el código, los datos y la base.
 
-No es un MVP. Es producción real, con React 18, Node.js, PostgreSQL y Docker. El mismo stack que usan las empresas que pagan seis cifras por licencias.
+No es un MVP. Está terminado, en producción real, corriendo hoy en empresas argentinas. React 18, Node.js, PostgreSQL y Docker. El mismo stack que usan las empresas que pagan seis cifras por licencias.
 
-Si tu empresa todavía maneja órdenes de trabajo en planillas, te invito a seguir esta serie. Voy a mostrar exactamente cómo se ve un ERP pensado por alguien que vivió el problema desde adentro.
+Si tu empresa todavía maneja órdenes de trabajo en planillas, te invito a seguir esta serie. Voy a mostrar exactamente cómo se ve un ERP pensado por alguien que vivió el problema desde adentro — y que ya está listo para implementarse.
 
 Esto es #ConstruyendoVeridian.
 
 —
 
-¿Tu empresa hoy paga licencias por módulos que no usa? Contame en comentarios.
+¿Tu empresa hoy paga licencias por software que no usa del todo? Contame en comentarios.
 
 #Veridian #ERP #PyMEs #SoftwareIndustrial #ConstruyendoVeridian #DesarrolloDeSoftware
 

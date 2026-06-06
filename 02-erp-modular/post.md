@@ -31,23 +31,18 @@ Pregunta honesta para gerentes de PyMEs:
 
 Pagaste por los 200. Usás 5.
 
-Veridian se construyó al revés. Empezás con lo que necesitás hoy:
+Veridian viene con lo que una PyME industrial necesita:
 
-▸ Auth + roles
-▸ Órdenes de trabajo
-▸ Inventario
-▸ Personal
-
-Y cuando crece la empresa, sumás:
-
-▸ Compras
+▸ Órdenes de trabajo y mantenimiento preventivo
+▸ Inventario de repuestos en tiempo real
+▸ Gestión de personal y turnos
 ▸ Dashboard ejecutivo
-▸ Automatización de procesos
-▸ Monitoreo remoto de equipos
 
-Cada módulo es independiente. Cada uno se activa cuando lo necesitás. Y ninguno te obliga a tragarte los otros 196.
+Sin los otros 195 que nunca vas a usar. Sin configuraciones infinitas que requieren consultoría para activarse.
 
-Esa es la diferencia entre un ERP heredado de los 2000 y uno construido en 2025.
+Todo incluido. Sin sorpresas.
+
+Esa es la diferencia entre un ERP hecho para vender más licencias y uno construido para resolver un problema real.
 
 —
 

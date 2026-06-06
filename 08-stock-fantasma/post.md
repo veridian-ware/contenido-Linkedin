@@ -29,7 +29,7 @@ Funciona así:
 ▸ No están
 ▸ Nadie sabe cuándo se usaron, quién los tomó, ni para qué máquina
 
-Resultado: parada de línea mientras alguien sale a comprar de urgencia lo que "teóricamente" ya tenían.
+Resultado: parada de línea mientras alguien sale a comprar de urgencia lo que "teóricamente" ya tenían. Una hora de parada no planificada en manufactura cuesta entre 5 y 20 veces más que el repuesto que faltaba. Y el repuesto no era el problema — el registro era el problema.
 
 Lo vi en empresas con 50 personas y en empresas con 500. El tamaño no importa. Lo que importa es si el movimiento de stock se registra en el momento o se "anota después" (que en la práctica significa: nunca).
 
@@ -37,11 +37,11 @@ El problema no es que la gente sea descuidada. Es que registrar un egreso de rep
 
 El registro tiene que ser tan fácil que no haya excusa para no hacerlo. Un teléfono. Un código. Un toque. Listo.
 
-Eso es lo que estoy construyendo en el módulo de inventario de Veridian.
+Eso es lo que resuelve el módulo de inventario de Veridian: el técnico registra el egreso desde el teléfono, en el momento, con tres toques. El sistema lo vincula a la OT, descuenta del stock, y avisa si se llegó al mínimo. Sin planillas. Sin "lo anoto después". Sin stock fantasma.
 
 —
 
-¿Tu empresa tiene stock fantasma? ¿Cuántas veces por mes pasa esto?
+¿Tu empresa tiene stock fantasma? ¿Calculaste alguna vez cuánto te costó una sola de esas paradas?
 
 #Mantenimiento #Inventario #Veridian #PyMEs #GestiónIndustrial #WorkOrders
 
